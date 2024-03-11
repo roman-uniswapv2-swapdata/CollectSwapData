@@ -1,0 +1,2135 @@
+[
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "859975081924018132",
+    "token2_volume": "3490000000",
+    "transactionHash": "0x077d08a667ed67c112145af6b4a8c92b741c168c67e8184fb594758c12bdad9f",
+    "timestamp": "1710180407"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "846041472744692271",
+    "token2_volume": "3412887997",
+    "transactionHash": "0x4be97d7093e116abe19d953940622de52c18360cd5f4d143164e64a8484c9cb1",
+    "timestamp": "1710180419"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDEF171Fe48CF0115B1d80b88dc8eAB59176FEe57",
+    "type": "buy",
+    "token1_volume": "52384016046",
+    "token2_volume": "12944342162420889503",
+    "transactionHash": "0xb76ead998000b9944bbe9cf46fed22dd9af7e891079d9ce6b5219d6bf1dbdf74",
+    "timestamp": "1710180431"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3000000000",
+    "token2_volume": "740479965533225499",
+    "transactionHash": "0x376251634db3961b94cabb90539ad8ab5751c2924e993c25daea3b64fd3f952f",
+    "timestamp": "1710180431"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "5000000000",
+    "token2_volume": "1233932976614716213",
+    "transactionHash": "0x30e3c5604a19c43caa97e12f32790052ffff0ceba5e69f0a7f60ed107ffb023f",
+    "timestamp": "1710180431"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1034811195",
+    "token2_volume": "256896013323994110",
+    "transactionHash": "0xc3a3ba5339a98eeeb7bf57469922bc9dbba075e149b6168230bf165500c3f445",
+    "timestamp": "1710180431"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "12425000000",
+    "token2_volume": "3065369159735498527",
+    "transactionHash": "0xf116ad6c6cc97f454bc2fcb19e062fe1e86a9b8ed86b0ab18eb756f80b0bcdec",
+    "timestamp": "1710180431"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "197136571423565699",
+    "token2_volume": "800000000",
+    "transactionHash": "0x43d57bc6602869420c48e2244122c39c6fdcb1df42412e47b4a9b3d6beec03af",
+    "timestamp": "1710180443"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "7699893010",
+    "token2_volume": "1910904801714147808",
+    "transactionHash": "0xe06af0f9459c6141c2c0be8d65550eec3c1b811229caa79607f4b7ec6df89745",
+    "timestamp": "1710180455"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "26436912886",
+    "token2_volume": "6565482909239737233",
+    "transactionHash": "0x8aaa4075ba417718c7d8a3e591c0c712eea35a9cce990f727a449e7ed0a7f62b",
+    "timestamp": "1710180455"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2500000000",
+    "token2_volume": "617445119396349928",
+    "transactionHash": "0x97a1ad2a6c7a5029c5e2a6e54d7863fcfb93ac9a1de76e1750c9fb5d8271b052",
+    "timestamp": "1710180455"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xE37e799D5077682FA0a244D46E5649F71457BD09",
+    "type": "sell",
+    "token1_volume": "12296235303141978",
+    "token2_volume": "49900000",
+    "transactionHash": "0x3cd1ed397d5b403c64c49b52da839e1be15e918490b4015df2339568e91a2c52",
+    "timestamp": "1710180467"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x111111125421cA6dc452d289314280a0f8842A65",
+    "type": "buy",
+    "token1_volume": "5000000000",
+    "token2_volume": "1234702308339219278",
+    "transactionHash": "0x707b11fb18189344a67371003e6d18021897b963a3151835af577c6f26162745",
+    "timestamp": "1710180467"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "369617655785171054",
+    "token2_volume": "1500000000",
+    "transactionHash": "0x6c964ae7950aa71d3ea61faf599f4883907ab0a0948b9e8ad3d6a3600c1f042f",
+    "timestamp": "1710180479"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2000000000",
+    "token2_volume": "493810695846825814",
+    "transactionHash": "0xb5b595dad559947027aeaa391339926c73bf3349c92027ee5e600a475b4cc8ca",
+    "timestamp": "1710180479"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "buy",
+    "token1_volume": "2000000000",
+    "token2_volume": "493770599006214954",
+    "transactionHash": "0x7965d1e1604ce575559198e6d3ef0665ca217fc4818928d3d641abd036f44397",
+    "timestamp": "1710180479"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "369600878478756326",
+    "token2_volume": "1500000000",
+    "transactionHash": "0x54c46472ffe472782071b0a9ab6c2c2c460966fac0b6361e78f997146461f9d6",
+    "timestamp": "1710180491"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "2463577663368825525",
+    "token2_volume": "10000000000",
+    "transactionHash": "0x954edcc2dc49b9733dc5a8de6539cf2976b736e41a9f27b76e3b5495d830e439",
+    "timestamp": "1710180503"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "buy",
+    "token1_volume": "247812500000000000",
+    "token2_volume": "1000014947",
+    "transactionHash": "0xf13ca2a4361bfb50120887d360bb9c829fe1b4d68524113b05dbe8711dca6cc7",
+    "timestamp": "1710180527"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "4927039849704493898",
+    "token2_volume": "20008000000",
+    "transactionHash": "0x3573b88aa02f9d7acc1fc91c8fc18e55d4bfaf0f5f9921fef73df8f2daf94e9d",
+    "timestamp": "1710180539"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "701268733904381281",
+    "token2_volume": "2831427226",
+    "transactionHash": "0x50abbfbba0d05a36ed37362c749017095ae2360ba966e7d7b1bfb4d8a086a929",
+    "timestamp": "1710180539"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2082249579",
+    "token2_volume": "514034213294857041",
+    "transactionHash": "0x13d6df17b8b9837de5d907ef064c08fec8b422c1a37b502ad7085a4de12fd1a8",
+    "timestamp": "1710180527"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3992000000",
+    "token2_volume": "985363005970829834",
+    "transactionHash": "0x8852a876f6d01406b95492c995791eed3d385f40f10952d539879146ba62ed8e",
+    "timestamp": "1710180527"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "buy",
+    "token1_volume": "6973016536481251497",
+    "token2_volume": "28140887047",
+    "transactionHash": "0x7fe16f63e8f457e553be1bb2b8baa442e37e7de52ea13dc63e4c24e44c362e7f",
+    "timestamp": "1710180551"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1959140341757250096",
+    "token2_volume": "7902143508",
+    "transactionHash": "0xe10d316c6196ed1cd159806a998ad656b1e9f7823a1e57097a96cdc242328415",
+    "timestamp": "1710180551"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "3004500000",
+    "token2_volume": "746068826466885708",
+    "transactionHash": "0x99c544cdd9a375bb8ea2dd6db624d297a4ed7b4af76de02cb1044da748a6a2d5",
+    "timestamp": "1710180551"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3184170338641673534",
+    "token2_volume": "12839230000",
+    "transactionHash": "0x763b565e52769ec3bfb94bf591ce4e895a50b62f02d95d677a3bd1b4dc0ee281",
+    "timestamp": "1710180563"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "665699824228975382",
+    "token2_volume": "2700000000",
+    "transactionHash": "0x97ae5e9c1ae8e8c24d7066745c09887caf25a2bfe3280b30924ea6dbed432fa5",
+    "timestamp": "1710180563"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "sell",
+    "token1_volume": "348711705",
+    "token2_volume": "86597009681545680",
+    "transactionHash": "0x3a571a4f98f8c0a4a8339672c63ccaa981369407095c6e1cae8bc45dba2f5da7",
+    "timestamp": "1710180563"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "733131436477155122",
+    "token2_volume": "2973750000",
+    "transactionHash": "0x046c1b2992b465e76cf0bacf93c5b668b3d1c9f7a7d1f8ff8a56005e8564380c",
+    "timestamp": "1710180575"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "369776431314704515",
+    "token2_volume": "1500000000",
+    "transactionHash": "0x89eb2f5f58780497ba841fd7f9238670f6f5a2c47fc8993699acd7e9a4fe3b52",
+    "timestamp": "1710180575"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1232466961600888720",
+    "token2_volume": "5000000000",
+    "transactionHash": "0x4d5b0a0a4e85d2bc72ff1482200db834ab6f69dc5fab1ee8d084e2391b102922",
+    "timestamp": "1710180587"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1222454593996361953",
+    "token2_volume": "4960128346",
+    "transactionHash": "0xceb332d5b3a876275b652afacc93abac2a8b3dc6dea84545ad43b50f4295f11d",
+    "timestamp": "1710180599"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "134378051799167983",
+    "token2_volume": "545286495",
+    "transactionHash": "0x5180c468b8829c4515b8a1d30c3a21dcd0926e784c110f71399aee4f61ca3d2e",
+    "timestamp": "1710180599"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3000000000",
+    "token2_volume": "740499248965476348",
+    "transactionHash": "0x632db4599b0f4f6704481afe52351ad773461b016de052659e62f719d3aa1f01",
+    "timestamp": "1710180599"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "600000000",
+    "token2_volume": "148089017368497170",
+    "transactionHash": "0x80a14904283f630886953202fdd36c4ed9ab572c94d1f81f57e01dd310734ce9",
+    "timestamp": "1710180599"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x111111125421cA6dc452d289314280a0f8842A65",
+    "type": "buy",
+    "token1_volume": "5000000000",
+    "token2_volume": "1233935054936523681",
+    "transactionHash": "0xe0835aa44af233a4ffcfe87a9ea32498425f438b81911a517303e9dfe29286b4",
+    "timestamp": "1710180611"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "302113932",
+    "token2_volume": "75000000000000000",
+    "transactionHash": "0x0915f0f4ecb99a6aa576ddaadb5a75a057d349683cd4951729e533b3f57b49d1",
+    "timestamp": "1710180623"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3000000000",
+    "token2_volume": "740249894502124623",
+    "transactionHash": "0xacad05de1eb2a9d4a64d22446b13c449ece7c0795caeb30028a8f45ef2c57485",
+    "timestamp": "1710180623"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "sell",
+    "token1_volume": "955992228",
+    "token2_volume": "237302930655552186",
+    "transactionHash": "0x933c3c3de15527fd776792577169f45fdbe63f535f8407998759bb1b1b7640d8",
+    "timestamp": "1710180647"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3000000000",
+    "token2_volume": "740188570370986097",
+    "transactionHash": "0x0ed73a1838e2902d65d9c8c6cc2c4936ca9b54e6f83fb3c83338384b6a0d9591",
+    "timestamp": "1710180647"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "buy",
+    "token1_volume": "1354612851243358449",
+    "token2_volume": "5463482286",
+    "transactionHash": "0x81bcb695e8ad92c0339e6c933a6b4e01953cb4a99faf011fa4b98fc31202687a",
+    "timestamp": "1710180659"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "867085061867465034",
+    "token2_volume": "3496688696",
+    "transactionHash": "0xab890e4a812015fa631f301517f265fa97e1ced013978996fde6be9cace01987",
+    "timestamp": "1710180659"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "123139471090281587",
+    "token2_volume": "496553669",
+    "transactionHash": "0x5030f6352be80b570b191157badb94b89545f878b377fb9cdfd4c06561d3d4f6",
+    "timestamp": "1710180671"
+  },
+  {
+    "TOKEN": "DAI/MKR",
+    "sender": "0xA69babEF1cA67A37Ffaf7a485DfFF3382056e78C",
+    "type": "buy",
+    "token1_volume": "76607586549899776322510",
+    "token2_volume": "29374208878058647062",
+    "transactionHash": "0x97ac6695f0f50536006fcb4e0f270367f54d4725313f81d5e8685c09fbf11cfb",
+    "timestamp": "1710180683"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "400000000",
+    "token2_volume": "98684992231260866",
+    "transactionHash": "0x6e2f383220fbe864d8ea9c1982fff4f66ac7bfdaa252e04063dc5f49df1494f8",
+    "timestamp": "1710180683"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "502754574297001171",
+    "token2_volume": "2027254719",
+    "transactionHash": "0x8b93a5def5e1e87237ca166038e7280a11bbbc8d005b54ebdc96615a631eff5e",
+    "timestamp": "1710180695"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "147910404355543180",
+    "token2_volume": "600000000",
+    "transactionHash": "0xd316f367cc66f71c704d7fa783c409e0c3ae472b3f3ecab4a5ad83e916460196",
+    "timestamp": "1710180695"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "24651472624344388",
+    "token2_volume": "100000000",
+    "transactionHash": "0x488f37e7d1051c3dbc3018751e08537da78bfe2d116351880793ae8104118cf0",
+    "timestamp": "1710180695"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "3434971975",
+    "token2_volume": "852610722780598243",
+    "transactionHash": "0x52c9a1fabf249c36b5d67ff74ba86467232c92d130c2a2541ae5297da40ce147",
+    "timestamp": "1710180695"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2918743226",
+    "token2_volume": "720142635218154608",
+    "transactionHash": "0x3e16a45ef0899249bec609735705e584edb719db3083730815774667e2fba992",
+    "timestamp": "1710180695"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "484822264000474020",
+    "token2_volume": "1954869604",
+    "transactionHash": "0xe2ff3b21cb9c79fdb3c6f652cd6c677bb332c6565abbe77b18ba06f6a6c43794",
+    "timestamp": "1710180707"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1369353551755008488",
+    "token2_volume": "5555000000",
+    "transactionHash": "0xe2a51430806a1b00778ed4eefe867102c4656cd7894c047affc8d204e3008b52",
+    "timestamp": "1710180707"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "337375778",
+    "token2_volume": "83738163363446621",
+    "transactionHash": "0xcd26ac6e75fdca9404c51a0efcf16875ae0ed7d7a0c179bbffc794dab176a17d",
+    "timestamp": "1710180755"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1457447337672136681",
+    "token2_volume": "5876916760",
+    "transactionHash": "0x8dfe8f01c5aa091d6c15a3aaebd09714d901552df4f6b054e936f85e829379d3",
+    "timestamp": "1710180791"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "sell",
+    "token1_volume": "149523524",
+    "token2_volume": "37112769437530000",
+    "transactionHash": "0x6ea6dc25e821c2894b915086ca988f1f9baaa62d7638edf6c0cce1bbc25eb8c8",
+    "timestamp": "1710180791"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "buy",
+    "token1_volume": "22390670554",
+    "token2_volume": "5521735314814345030",
+    "transactionHash": "0x1193f801b24ff34c8b1bb618b8d08f03399dd66d5a7b7ba5eaa9c5136e6420a1",
+    "timestamp": "1710180815"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "909882638218609508",
+    "token2_volume": "3690941416",
+    "transactionHash": "0x35301f311369d2d27ef2408d15d78ba33d2a4a3ea2223be0522b4a412b958f2f",
+    "timestamp": "1710180827"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "880000000000000000",
+    "token2_volume": "3548343874",
+    "transactionHash": "0xbf0c87f6dc5b26bda865a235fa7a5e7786f6c380d3d00c4d2738dad45f441c37",
+    "timestamp": "1710180827"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xd129D8C12f0e7aA51157D9e6cc3F7Ece2dc84ecD",
+    "type": "sell",
+    "token1_volume": "308691829986462413",
+    "token2_volume": "1252168108",
+    "transactionHash": "0xbeef7bf1c5d1f242372eb4137bbb1d0a6ddf4f1f7ce4b24338f165f1c67a4f4b",
+    "timestamp": "1710180839"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xd129D8C12f0e7aA51157D9e6cc3F7Ece2dc84ecD",
+    "type": "sell",
+    "token1_volume": "98824322216258751",
+    "token2_volume": "400877998",
+    "transactionHash": "0xbeef7bf1c5d1f242372eb4137bbb1d0a6ddf4f1f7ce4b24338f165f1c67a4f4b",
+    "timestamp": "1710180839"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "2443245663218034718",
+    "token2_volume": "9912500000",
+    "transactionHash": "0x7d4282802feca0269455da4cfdd1846c43326f74b9a7ed48b18ce5dd49e138bd",
+    "timestamp": "1710180839"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1281840931849820772",
+    "token2_volume": "5169776090",
+    "transactionHash": "0x4c854501a57622655cd98c5fa9b2d85f0f10230b6a1b45817e268ae2dccd30bc",
+    "timestamp": "1710180839"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "364681353265511802",
+    "token2_volume": "1479573077",
+    "transactionHash": "0xebb75d6018b09fac86cb7404ac41674aff7ea8176544424e4e6e61dbbb9c7f98",
+    "timestamp": "1710180851"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "61617740293437388",
+    "token2_volume": "250000000",
+    "transactionHash": "0xe7360a2e4d7c5e6070a03e41696003db2909660c9746a8f67b730a380e7f4d65",
+    "timestamp": "1710180851"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1714283887",
+    "token2_volume": "425126766353085559",
+    "transactionHash": "0x89f2dbdc5d26e3cacd570306dd67f54b23c8b104fb4c4bf6f005ba52794bc777",
+    "timestamp": "1710180851"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3328F7f4A1D1C57c35df56bBf0c9dCAFCA309C49",
+    "type": "buy",
+    "token1_volume": "3774316595",
+    "token2_volume": "930349910999729691",
+    "transactionHash": "0x83c1820cb901f8d3761e9d6290c5859c26f75bba0983663b66dad357598b818f",
+    "timestamp": "1710180875"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "39277925254",
+    "token2_volume": "9747193128447324382",
+    "transactionHash": "0x48d31ec493eb05c96a641b262525bc059303aa555785261b03c61552cf0fd1a9",
+    "timestamp": "1710180875"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "246466303270648222",
+    "token2_volume": "1000000000",
+    "transactionHash": "0xaeb4f8f9e5c184caa0b55868f8e8143d5815975a3a459b1457c8e3268d833515",
+    "timestamp": "1710180911"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "buy",
+    "token1_volume": "337025000000000000",
+    "token2_volume": "1359228644",
+    "transactionHash": "0x31da9dfcd445b49553ce19b2c04a329fe3797aabe812cba5d4b787ec5e2ac6fd",
+    "timestamp": "1710180911"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "500750000",
+    "token2_volume": "124366698960838407",
+    "transactionHash": "0xba3918d285ccbbb2484ad97da9c8b8c1c7c9cb6af2b8d83014e1703c2985225d",
+    "timestamp": "1710180911"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "2013096742",
+    "token2_volume": "500000000000000000",
+    "transactionHash": "0xfd4822d26188b775c62d1501831d02e2694bb5632db88bd1405a13ed25c47c20",
+    "timestamp": "1710180911"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "buy",
+    "token1_volume": "970000000000000000",
+    "token2_volume": "3911716886",
+    "transactionHash": "0x4f43ba43c3fc1edca2b20f897c27a68835ee5acee4294c4bedaa651f96071a41",
+    "timestamp": "1710180923"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "sell",
+    "token1_volume": "338496658",
+    "token2_volume": "84077649379094460",
+    "transactionHash": "0x8ee9dcce4c26ef425ad12a1198c0fdfee995d423dbd6ad532a17974d5d16783c",
+    "timestamp": "1710180947"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1349836249804159998",
+    "token2_volume": "5442709010",
+    "transactionHash": "0xf7cffb6ec2dc3f75ae141bb5a4580e9bc12903eb451a911446046e4474a08e47",
+    "timestamp": "1710180959"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "2465054903550407212",
+    "token2_volume": "10000000000",
+    "transactionHash": "0x9d5a0407467c61ff72116ee67e4c450901413a9d7d9d4676d325f6cba994817f",
+    "timestamp": "1710180983"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "3096041556",
+    "token2_volume": "769065433849117836",
+    "transactionHash": "0xed94d51a1659ed10c4dfe756638dd109275678c3ff013d35c2f96509a92eb479",
+    "timestamp": "1710180983"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xF3dE3C0d654FDa23daD170f0f320a92172509127",
+    "type": "buy",
+    "token1_volume": "302688961705928049",
+    "token2_volume": "1220725712",
+    "transactionHash": "0x2548b07d9bcb7fdc9c50fca12cf158102de519efedfacdf66b26bb4e545b7e32",
+    "timestamp": "1710180995"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "369707518554074448",
+    "token2_volume": "1500000000",
+    "transactionHash": "0x2998cde5936a7337311eabf492569bb5c6a4fec0a8c89ea301bc9d729f982a56",
+    "timestamp": "1710181007"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "805079847",
+    "token2_volume": "200000000000000000",
+    "transactionHash": "0x3473bc850f6322dcb90ff81be4617d05c7780563adbb788da05d26aadc1f9d98",
+    "timestamp": "1710181007"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "8257419524",
+    "token2_volume": "2038732027867284968",
+    "transactionHash": "0x7345a62963830b1f40040d80d9514c269828c7fb706e02bec6774b5cd4414b16",
+    "timestamp": "1710181007"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "4113591612691546604",
+    "token2_volume": "16586133593",
+    "transactionHash": "0x6a710475bf4603cc995332177a5618ee0315848201071a29a602502de77335ca",
+    "timestamp": "1710181019"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "493165524267908812",
+    "token2_volume": "2000000000",
+    "transactionHash": "0x7709c1968c5eaf0b3664c6fc39776f15da34204a58d2820e3fda94ef51e435d1",
+    "timestamp": "1710181019"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "buy",
+    "token1_volume": "105648351811485730",
+    "token2_volume": "425893186",
+    "transactionHash": "0x11077737eb7523a9f54fcf1018b3618f7c6c7d64a35902c4d8acfbbee8ce91fd",
+    "timestamp": "1710181019"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "767827638",
+    "token2_volume": "189539559743895161",
+    "transactionHash": "0xb71dc737e7df6793e84028b540d6a932801eeadbd00d70a77847f8395f0ba952",
+    "timestamp": "1710181019"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1221165385953159227",
+    "token2_volume": "4922403751",
+    "transactionHash": "0x86ea853c622cd84e3e6fcb58cb290b59d57f65a8712fd3bee2adb9065f6b7ff0",
+    "timestamp": "1710181031"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xE37e799D5077682FA0a244D46E5649F71457BD09",
+    "type": "buy",
+    "token1_volume": "11625603127",
+    "token2_volume": "2869079095638180710",
+    "transactionHash": "0x754619d78ba9cec9c66456076375e7262a6a9c1fc11641bacec6f20bb2cf2587",
+    "timestamp": "1710181031"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "303977147007522111",
+    "token2_volume": "1225189062",
+    "transactionHash": "0xc1b70f8455d986e27d7a3b6052283afdb351f973715d43c37d2905ad4e93b3c8",
+    "timestamp": "1710181043"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xD1742B3C4fBB096990C8950fA635Aec75B30781A",
+    "type": "buy",
+    "token1_volume": "282906570519560372",
+    "token2_volume": "1140222515",
+    "transactionHash": "0x0e223ff9b53b1a170aaf89f5658edaa96090a3628b693b23a87c55ab06c95bb2",
+    "timestamp": "1710181055"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1159199046430456539",
+    "token2_volume": "4700430127",
+    "transactionHash": "0x0a310e661545ba849517e713ea37d3dcc427b89b991ad9de36448bd739e405fd",
+    "timestamp": "1710181055"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xF3dE3C0d654FDa23daD170f0f320a92172509127",
+    "type": "sell",
+    "token1_volume": "245854454574656278",
+    "token2_volume": "997000000",
+    "transactionHash": "0x728c8208bb1b28ec44bb864dd13d74e713c71c57c5e95d29b93f457ed3d2f181",
+    "timestamp": "1710181067"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "2215314907202013782",
+    "token2_volume": "8985000000",
+    "transactionHash": "0x32f9d5a33518f079f100a501a2f77f6f5cf65334f65be5d7e033e31fba3fdae4",
+    "timestamp": "1710181067"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "277087164585571323",
+    "token2_volume": "1123998017",
+    "transactionHash": "0x53dddcac8dc5ee15967581576dc834c10cf3c1154ba3ae00aba9dfd84c1e8625",
+    "timestamp": "1710181079"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "302997506065377438",
+    "token2_volume": "1229146519",
+    "transactionHash": "0xaa60c1730491e4390144f108f72a5274d7a08971c9e3c4306187ed9452f08fa1",
+    "timestamp": "1710181091"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2000000000",
+    "token2_volume": "493442776964110449",
+    "transactionHash": "0x561b1e0a2c93eb64e0b4e88488ffd673506c5736e7eb4ccb2a1c7d0415eb392f",
+    "timestamp": "1710181091"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "39504751544263658",
+    "token2_volume": "160259240",
+    "transactionHash": "0xf3098b797b738f251b065d49af16ce7cfed9911eedaca4e421702edeef553e4d",
+    "timestamp": "1710181103"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "buy",
+    "token1_volume": "5000000000",
+    "token2_volume": "1233431838903750891",
+    "transactionHash": "0xa70a85063ffc4f1e9a507a43935d09f01e951fd02d2b33e4f8c16cef0d014936",
+    "timestamp": "1710181127"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3869649857",
+    "token2_volume": "954418048504840616",
+    "transactionHash": "0xcd604c492d0b7a65a3b644210f25a35abd255cbd799ae974d79a12f8cbe027cf",
+    "timestamp": "1710181127"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e",
+    "type": "buy",
+    "token1_volume": "49598232092669194",
+    "token2_volume": "200000000",
+    "transactionHash": "0x13d850908abbec69d37b233370d080d4253ac570ed3e538e3b2370845d54af32",
+    "timestamp": "1710181139"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1232437858080851288",
+    "token2_volume": "5000000000",
+    "transactionHash": "0xf59d259e39863419785dfbd79d33ec60de55f1a4403cac38a6d22a746c643d72",
+    "timestamp": "1710181139"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "205501571890772086",
+    "token2_volume": "828777389",
+    "transactionHash": "0x7ad3acb2f286f5fa4b174abe635cb6776ccb19f23bfb09a733cc08d1e5593bfb",
+    "timestamp": "1710181151"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "424957626591779169",
+    "token2_volume": "1713766394",
+    "transactionHash": "0xb24be62f58e76264a790444a6e856b8f78f02ebfa66dedf7ebe01eddab1c3467",
+    "timestamp": "1710181151"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "698778038",
+    "token2_volume": "172331997757538846",
+    "transactionHash": "0x9421f755ed5afa51a56b53dce1a9ae014a10703dca1183f5b3950f0a841a0049",
+    "timestamp": "1710181151"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "510904136165187595",
+    "token2_volume": "2072799928",
+    "transactionHash": "0xf6888af2e0d0e79669295fe1f867f0858ab17d81e56494556639dcba9cd16ac3",
+    "timestamp": "1710181187"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x51C72848c68a965f66FA7a88855F9f7784502a7F",
+    "type": "buy",
+    "token1_volume": "64022913463",
+    "token2_volume": "15768517013575030784",
+    "transactionHash": "0x013b50740d9ab0a14e762c06868d668b1eeb39889ca123565f2d0728ca764be9",
+    "timestamp": "1710181187"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "buy",
+    "token1_volume": "10000000000",
+    "token2_volume": "2459263852902928116",
+    "transactionHash": "0xaa8b291516d2578254dbbaec511e360cf3f848c23e881d826fc571a3d58c3be2",
+    "timestamp": "1710181187"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x767C8bB1574BEE5D4FE35E27e0003c89D43C5121",
+    "type": "sell",
+    "token1_volume": "17869623113572400920",
+    "token2_volume": "72581013504",
+    "transactionHash": "0x2d729e4eb9c63a09d992cd9ae93890b4ec6932a913383a86aef9b7ed15193148",
+    "timestamp": "1710181199"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2873179246",
+    "token2_volume": "706406171371222442",
+    "transactionHash": "0xfe01e188e469d76719473f1a7b97cea7eca84f161fda5e8ce9a6d4a0236432ce",
+    "timestamp": "1710181211"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "992425720",
+    "token2_volume": "245461219165458264",
+    "transactionHash": "0x3398f187d721ed7d1b176f14d6efae03415b6618404bb35f7dcda89c3d9cde6c",
+    "timestamp": "1710181223"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xB62bDeDa5d1E7a03a615B793e949C19D158c6b46",
+    "type": "buy",
+    "token1_volume": "512789750934581725",
+    "token2_volume": "2072531402",
+    "transactionHash": "0x4e290974e9661027d51b07f262105d934a5bbc935e0249346df84aa50bbf129e",
+    "timestamp": "1710181235"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "122972762046670542",
+    "token2_volume": "500000000",
+    "transactionHash": "0xe2f06b311229cf1034db9fa6d9c18f526e82a460524e1ed49489018fd3d14a64",
+    "timestamp": "1710181235"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "297038583454029238",
+    "token2_volume": "1200493057",
+    "transactionHash": "0x2f7cadf3dd15979e1370f23a9684020af9866eb86a1b861f4b90af29fa24c198",
+    "timestamp": "1710181235"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "1625160774",
+    "token2_volume": "401979862437481632",
+    "transactionHash": "0x2a3652e1cb2235ceb317b52703cad2120c3bf7a01450ffe1b1b5be1560e3c988",
+    "timestamp": "1710181235"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xf081470f5C6FBCCF48cC4e5B82Dd926409DcdD67",
+    "type": "buy",
+    "token1_volume": "58800000000",
+    "token2_volume": "14440217255806499450",
+    "transactionHash": "0xa7ad558a1533a1dd200d384dba71c9b88660546f21488453f390f2caa86720e9",
+    "timestamp": "1710181235"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1445702822",
+    "token2_volume": "354605076591924441",
+    "transactionHash": "0xba69becd574e59017422f724e92b0f17efd8a8d9931efac61c8a367fc49de1c7",
+    "timestamp": "1710181235"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "7210236193",
+    "token2_volume": "1768232747067506719",
+    "transactionHash": "0x003d6c2b9e21ea8b7f3148609903177370bc7a3c4b1db3f8f7b4a5b51acfefe0",
+    "timestamp": "1710181235"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "705755996106086000",
+    "token2_volume": "2869603816",
+    "transactionHash": "0xb78677169e596a53696573a869ad64c92cb1c6ff1d1b53b8145d47cc6572522a",
+    "timestamp": "1710181271"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x2Ec705D306b51e486B1bC0D6ebEE708E0661ADd1",
+    "type": "buy",
+    "token1_volume": "5000000000",
+    "token2_volume": "1225893184347185747",
+    "transactionHash": "0xa5cdf5f0715d16e8232f2a494b134854347af32a3ba822106207f62291b53f9c",
+    "timestamp": "1710181271"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "2437429134252144108",
+    "token2_volume": "9912500000",
+    "transactionHash": "0x427d29e8e242be5cb13898b3662d956b4f5e1e2bceb30f07e9480791f79efd5a",
+    "timestamp": "1710181283"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "122927870590407021",
+    "token2_volume": "500000000",
+    "transactionHash": "0x547b4c7c557332627dbc28faf21c89c29acaa155bbcb305c8a5c1611c1872a18",
+    "timestamp": "1710181283"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2914952130",
+    "token2_volume": "714569524193556124",
+    "transactionHash": "0xf6948a6f923334ecde1c090a8a818718734db75d0ad9c0c218cfa5c31626601f",
+    "timestamp": "1710181283"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "5017176001",
+    "token2_volume": "1237372839743053286",
+    "transactionHash": "0x5ff8b0cfe444afe1fee9b6421a38ef086e4de79c39a976da583aa51d6dddf850",
+    "timestamp": "1710181283"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x51C72848c68a965f66FA7a88855F9f7784502a7F",
+    "type": "sell",
+    "token1_volume": "18359290553359638528",
+    "token2_volume": "74760241494",
+    "transactionHash": "0x97a1242a6e820dc5623e5c2b028e92d4f2e322517cbd1d430df61ce573e4617b",
+    "timestamp": "1710181295"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "294353767837140401",
+    "token2_volume": "1200000000",
+    "transactionHash": "0x52671603484a3c96c07089355de0e929ebd41d7c4ca14c0ea39223ef12156106",
+    "timestamp": "1710181307"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xA69babEF1cA67A37Ffaf7a485DfFF3382056e78C",
+    "type": "sell",
+    "token1_volume": "16157589168155332475",
+    "token2_volume": "65936747233",
+    "transactionHash": "0xcc96b04c05ceeb095ead2e808c0db2f20109ceec0675fb62f0df03290dc8bde2",
+    "timestamp": "1710181319"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "48960404941531906",
+    "token2_volume": "200000000",
+    "transactionHash": "0x18b7cc00ce5d7e67b9237f620f649a66066815541acab306dd9798692523399b",
+    "timestamp": "1710181319"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x5050e08626c499411B5D0E0b5AF0E83d3fD82EDF",
+    "type": "buy",
+    "token1_volume": "63551611981",
+    "token2_volume": "15561278164624153119",
+    "transactionHash": "0xe23000ea44c395fd1f0e8625edbae7a639d0474c488e1529ddec25ca887c60bf",
+    "timestamp": "1710181319"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3328F7f4A1D1C57c35df56bBf0c9dCAFCA309C49",
+    "type": "buy",
+    "token1_volume": "20349435953",
+    "token2_volume": "4974323314427884983",
+    "transactionHash": "0xf1897966c384d8d6358604730a6802c1ac5fbd3c24a82d0b5798f9d3ac2b7459",
+    "timestamp": "1710181319"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "942233981037298039",
+    "token2_volume": "3825694533",
+    "transactionHash": "0x10d5b2001f54029ef49e9389ff75e86d68fcb5a428693f3fa9eaead82e978e46",
+    "timestamp": "1710181343"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "462959628979994686",
+    "token2_volume": "1891000000",
+    "transactionHash": "0xdeaa5ad4a5e1675cd1f166764dbf7026f20e93e021d25e8e26b872d8ad02fe52",
+    "timestamp": "1710181343"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2600000000",
+    "token2_volume": "635262808358567958",
+    "transactionHash": "0x7caaa8c253c8ad64e69071439f9b4bab6eb86b6a4a89f782732a2dd7f59db3b0",
+    "timestamp": "1710181343"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "6144977600",
+    "token2_volume": "1510571231185228088",
+    "transactionHash": "0x18032b330b5d0153be8b78822ac087c704f92f08016fa2a0f3cf102e02c40a50",
+    "timestamp": "1710181355"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "489616566174551897",
+    "token2_volume": "2000000000",
+    "transactionHash": "0xdd29910c894c055a0b849aa680bb4614a5b6ef60661e7029f19e804437eb6934",
+    "timestamp": "1710181367"
+  },
+  {
+    "TOKEN": "DAI/MKR",
+    "sender": "0xA69babEF1cA67A37Ffaf7a485DfFF3382056e78C",
+    "type": "buy",
+    "token1_volume": "32722480066209001071660",
+    "token2_volume": "12522503874659582664",
+    "transactionHash": "0x93d81c1d37870f2be982d31731e356212e74572aa2e072ac46e5dc0a067b0fa1",
+    "timestamp": "1710181367"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "450614792927594614",
+    "token2_volume": "1829661588",
+    "transactionHash": "0x89893619fe401def3ad91d52f0fb45ec4c14a1c8acc39a0eb4c65acc8d8375fa",
+    "timestamp": "1710181403"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2186000000",
+    "token2_volume": "534190762756224226",
+    "transactionHash": "0x92edecc8ff91dbcd4f09420e26b7de51dcc6ae2e9c8718973ad40c4a0d683343",
+    "timestamp": "1710181415"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "6231376957010874067",
+    "token2_volume": "25463230000",
+    "transactionHash": "0x8a4022ec1c3fd2be42ac02ca546cb861507165c9d4bcfcad3ee22bff6abeed36",
+    "timestamp": "1710181427"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1412410531",
+    "token2_volume": "345124341998020517",
+    "transactionHash": "0x0c09d4a4277964b2741d5d45c99b6d5988f0e7d8fd733cacd2a9db4cd1e71f2d",
+    "timestamp": "1710181439"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "122312338135723786",
+    "token2_volume": "500000000",
+    "transactionHash": "0x0100e4bc58830ae0f102b585da2e8c141e48fab30a5118ac5c1edf1f5294971a",
+    "timestamp": "1710181463"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "278287543914197405",
+    "token2_volume": "1137638340",
+    "transactionHash": "0xe200b4722dbae25e651f4c8b0976b8638a9f8061514aa4435bbaa3f356da0c6a",
+    "timestamp": "1710181499"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e",
+    "type": "buy",
+    "token1_volume": "49217899948457016",
+    "token2_volume": "200000000",
+    "transactionHash": "0xf0d6483f21d933577d263d243f20a92cb1e43114adf00744323846770e6e0bc0",
+    "timestamp": "1710181511"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "4157406743757797183",
+    "token2_volume": "17000000000",
+    "transactionHash": "0xce4b427122347d9bf3bb82c121ea68ed3287d0c45c15634951ad12063f10a13d",
+    "timestamp": "1710181511"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "126549387494682566",
+    "token2_volume": "517608370",
+    "transactionHash": "0x7312b1da2d418b08ca353af599910989102f2a9005621c90eb86089159dc0648",
+    "timestamp": "1710181511"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "7018425870",
+    "token2_volume": "1714669789001832039",
+    "transactionHash": "0xee7ea36824068ab2d428a76ef449f2214e38415a48ac2dc2cb4db46eaf3e6287",
+    "timestamp": "1710181499"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "234447147349235129",
+    "token2_volume": "958949763",
+    "transactionHash": "0xee823519ce9637ad1e3fe386825141407337121b524b563fd1ac051ccbff5577",
+    "timestamp": "1710181523"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "488944691502289423",
+    "token2_volume": "2000000000",
+    "transactionHash": "0x8864059dedea7f017edebdc1bf3b7f4c387aec4fb9f0397c23a7c0524fc6da57",
+    "timestamp": "1710181535"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "416682473185903607",
+    "token2_volume": "1694212238",
+    "transactionHash": "0x1f83991d1fead7b0ff905e3522521377108d1f156dd7571262a5547afe45c51c",
+    "timestamp": "1710181535"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1993837457",
+    "token2_volume": "490000000000000000",
+    "transactionHash": "0x234bd2ac6d72ffee3c22e78f01465d6df4cbfbbd08cb6c727876ce372961ba09",
+    "timestamp": "1710181535"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "5752700255",
+    "token2_volume": "1413989445160370793",
+    "transactionHash": "0xc7cbd2cc71bdcf91aabd3028c947ac341a76235c5640c941d0e9e22eb5f8d50d",
+    "timestamp": "1710181559"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "61119142022541589",
+    "token2_volume": "250000000",
+    "transactionHash": "0xfd7b6f87723b1b6b4bd769fd91a42df2377782328c3d933c01c5aa3250aaae9a",
+    "timestamp": "1710181595"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "6948895360",
+    "token2_volume": "1708448600094889382",
+    "transactionHash": "0x12ef1f63cf68b5552ed92d34eb4b841b96bb2b438070931726bea48c4415f94d",
+    "timestamp": "1710181595"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "977843722124951635",
+    "token2_volume": "4000000000",
+    "transactionHash": "0x0b6f7575f9d0462673d17c9f52448668c74e4cd3dcd16c612acd85d36570fa25",
+    "timestamp": "1710181607"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "buy",
+    "token1_volume": "99125000000000000",
+    "token2_volume": "403076644",
+    "transactionHash": "0xb791a1639eaa92217a37231b198f9a1b28a4b2488fddc02e30d4bde53f135196",
+    "timestamp": "1710181619"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x0B8a49d816Cc709B6Eadb09498030AE3416b66Dc",
+    "type": "buy",
+    "token1_volume": "965730436574642212",
+    "token2_volume": "3926738343",
+    "transactionHash": "0xbab61f1dbd6b018c38e51ae4e6930b851271e9ccccacd1636d3d9509e2750a16",
+    "timestamp": "1710181631"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "122238166253856323",
+    "token2_volume": "500000000",
+    "transactionHash": "0xcd8aea493df27bf3d6a86d70dca82dc09fb687295b0e4f4b939ffd2c864defaf",
+    "timestamp": "1710181643"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "sell",
+    "token1_volume": "283742127767254728",
+    "token2_volume": "1160640877",
+    "transactionHash": "0x18673f610f92fbc612022d3806ab503da5a94b56ab671c62adf64c18511bcdab",
+    "timestamp": "1710181643"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "2510617226364717159",
+    "token2_volume": "10271391315",
+    "transactionHash": "0x5f88eab648142c8e5f7150abc3315f0e3b56dde3818cc447f4899803af75cc91",
+    "timestamp": "1710181655"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "244386589830635435",
+    "token2_volume": "1000000000",
+    "transactionHash": "0x7d7185e4f34f07f5376103952015e4df3f231b6068acdc125a899d66b4bbfe37",
+    "timestamp": "1710181667"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "487284887240872887",
+    "token2_volume": "1994000000",
+    "transactionHash": "0xac3a2e341acf2de3a07aa2e3258efb6c161dd58eeecd4c4dd16cdc6cc280340b",
+    "timestamp": "1710181667"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "366544053435996706",
+    "token2_volume": "1500000000",
+    "transactionHash": "0x9e8e1d452cf4b64a288b7343e1157527743a42e64a6dc7ded854a1fad122331d",
+    "timestamp": "1710181691"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2000000000",
+    "token2_volume": "488821351013976677",
+    "transactionHash": "0x7a3cd8a65df474c1c4a40edd5ea9e4ab45fdc7ad0a0c181ad390a9a9b4fb3059",
+    "timestamp": "1710181691"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "6839007599959076193",
+    "token2_volume": "27808401975",
+    "transactionHash": "0x7fb18afb9912dfe9ae3dce2d64a1f6d3cbc23bd29d480e1a5a834360da410fa7",
+    "timestamp": "1710181703"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "buy",
+    "token1_volume": "26868804665",
+    "token2_volume": "6563200649102733602",
+    "transactionHash": "0x955d2fa38efd2a1cdb2d1aa8afcd0933007f0a587a81b73db7ad82430df5002e",
+    "timestamp": "1710181715"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3328F7f4A1D1C57c35df56bBf0c9dCAFCA309C49",
+    "type": "buy",
+    "token1_volume": "1064129459",
+    "token2_volume": "259786460805305668",
+    "transactionHash": "0xa57aa5cf7328f2b8d85ac0079000e325059dd18e658e85cf368719b7f7c5ba56",
+    "timestamp": "1710181727"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3000000000",
+    "token2_volume": "732331473208054453",
+    "transactionHash": "0xb2ac80456bc872496a3f394b0e5bf03750fbc5a16ad2ac0a6a3a2facaee6763c",
+    "timestamp": "1710181727"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "buy",
+    "token1_volume": "800000000",
+    "token2_volume": "195273400995342622",
+    "transactionHash": "0xac653c055b07bd85f3f3d6987b530014f64de4370e2b31b7f0b1c196b481fce7",
+    "timestamp": "1710181739"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x111111125421cA6dc452d289314280a0f8842A65",
+    "type": "buy",
+    "token1_volume": "123957194271778745",
+    "token2_volume": "503812050",
+    "transactionHash": "0x904a622d36a4582f034826e4ab994ded2afcfa448a1997a2663a9592073725a6",
+    "timestamp": "1710181751"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2390609259",
+    "token2_volume": "583490450828872162",
+    "transactionHash": "0xc651e2e163f5afbb90e929063bd354cd38de1ac0f55de65f64e1d15ca9e98e03",
+    "timestamp": "1710181751"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xCE66fAcA3e5e033b9513255d09AdB178e4a45A3c",
+    "type": "sell",
+    "token1_volume": "8264493212",
+    "token2_volume": "2029563672872638457",
+    "transactionHash": "0x1058c029c635c7c46a0432a51e7bed969b62b98cfd19f337cc84c734276dba62",
+    "timestamp": "1710181787"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "7358248823",
+    "token2_volume": "1807583082304485508",
+    "transactionHash": "0x1e39d71f8f1f4dc7d36e9e1f4fc6f25a403c2489fdfbd2acb43f634efbc39a4d",
+    "timestamp": "1710181787"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "10284674489",
+    "token2_volume": "2527373805826755678",
+    "transactionHash": "0x511b22a662ddc48f639987f493121b67d7d5f8208298ef30197f84be1101e61b",
+    "timestamp": "1710181787"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "buy",
+    "token1_volume": "300000000000000000",
+    "token2_volume": "1219289294",
+    "transactionHash": "0xf9ca70814b373ba95c1e1297e52d2ed01e5139d7fdb4b8cb89207c1081e7f4cc",
+    "timestamp": "1710181787"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1222785135125742125",
+    "token2_volume": "5000000000",
+    "transactionHash": "0x3397af61f52578ac96beeec8732622f1ec1be6f682a4492ffcbec9a1b50678f1",
+    "timestamp": "1710181787"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "144434376046948896",
+    "token2_volume": "587096744",
+    "transactionHash": "0xc6111ac0e6053c74c58e96ea978a143773a90333b14c52019b94ed3a05a6da0b",
+    "timestamp": "1710181811"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3355909030806436282",
+    "token2_volume": "13638166883",
+    "transactionHash": "0x584193e020cb813cff7eb3c3a91da874e8487c4b796c34709dcf6c9d20ba12d4",
+    "timestamp": "1710181823"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "2424669707446761375",
+    "token2_volume": "9912500000",
+    "transactionHash": "0x004459638b7e3fa26c8274e600b7a8a9ddb41d3e4d5cb740854970b12eeff7b0",
+    "timestamp": "1710181823"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "680000000",
+    "token2_volume": "166135636712103650",
+    "transactionHash": "0x536232bf905413ada614b305ed2b2d5ec6ec98c360bc97ce8101365eabb28a18",
+    "timestamp": "1710181811"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "sell",
+    "token1_volume": "31458485",
+    "token2_volume": "7732068366948500",
+    "transactionHash": "0x5de1802cde525a3ce3510794569adcfb6501e849a420bf82b97709b3c4a1f1c3",
+    "timestamp": "1710181811"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "610278046",
+    "token2_volume": "150000000000000000",
+    "transactionHash": "0xb9c32514945b33356f58571aa55dedfa39a553d62091eb68b6ba5ff405fb06b3",
+    "timestamp": "1710181823"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2501039200",
+    "token2_volume": "611023343889338970",
+    "transactionHash": "0x06622c5a687d3855f86e0ce175c7adfbce26f51d56527d766b5b4e437b15446f",
+    "timestamp": "1710181823"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "978223826029830026",
+    "token2_volume": "4000000000",
+    "transactionHash": "0xaddf651d341f8a76ced8e181e1a6b4fe2b56ed5ec1be86a7aa69edbb02e57630",
+    "timestamp": "1710181835"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "458274321533786605",
+    "token2_volume": "1862737282",
+    "transactionHash": "0x3ea751cc265798341c35294a2725b8f6e6e8912eefc49cf452c1aa96fccfdda1",
+    "timestamp": "1710181847"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "4068546130",
+    "token2_volume": "1000000000000000000",
+    "transactionHash": "0x5a4ccf5f959571367ee9d290440a0ce62f722246bb5aa6148886d138ad681342",
+    "timestamp": "1710181835"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xF3dE3C0d654FDa23daD170f0f320a92172509127",
+    "type": "sell",
+    "token1_volume": "10150114492",
+    "token2_volume": "2495494995393020112",
+    "transactionHash": "0x978b4cb32d278cc709afc4f61fe62810865a47283fc2a921e0b5fdc089f46599",
+    "timestamp": "1710181847"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
+    "type": "buy",
+    "token1_volume": "116752420529840162",
+    "token2_volume": "474544142",
+    "transactionHash": "0xe76d0b787c8cfec20b1e0efd23d12ae2f5532a3a6c356b2cef2644cdaba05790",
+    "timestamp": "1710181871"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1611480498618096885",
+    "token2_volume": "6590000000",
+    "transactionHash": "0x2421fd73e8280113a67e7cee2dc1dcbea5360c5c7eeec8d135e83dc340e6a973",
+    "timestamp": "1710181871"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3328F7f4A1D1C57c35df56bBf0c9dCAFCA309C49",
+    "type": "buy",
+    "token1_volume": "3701058743",
+    "token2_volume": "904605184896305485",
+    "transactionHash": "0xc2e19b5bd4ee96feafa7dc063756e7b3edf3d471f72ec15c73e1953db6d57bb4",
+    "timestamp": "1710181871"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "buy",
+    "token1_volume": "2070000000000000000",
+    "token2_volume": "8414127000",
+    "transactionHash": "0xf05310e3b793d533e3197be7936d808cabe71197c116f77bac86141181d16feb",
+    "timestamp": "1710181907"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "16646912581",
+    "token2_volume": "4094399604115600239",
+    "transactionHash": "0x2fae55cc3bbbd80b6131d84ad0836b6a0a9f5237ad1d190572917962b68862b0",
+    "timestamp": "1710181919"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "3269185155",
+    "token2_volume": "799474148085457629",
+    "transactionHash": "0xf74c04a0dd8dad5b5c89e3816619ae59f034f3067e7f3d99570b8854598cbcc1",
+    "timestamp": "1710181919"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1032799402988075817",
+    "token2_volume": "4197317736",
+    "transactionHash": "0x32781c6fdef25bcaaedd29068dbd5d0bc5c0f536f913b6f5ba66de247e7be8c8",
+    "timestamp": "1710181931"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "2445663402510632443",
+    "token2_volume": "10000000000",
+    "transactionHash": "0x41300cda3efbf64e9b7b3e03cec7be8f8a3201bc3f025a0ab5e0c0f5c2532202",
+    "timestamp": "1710181931"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "33119294490",
+    "token2_volume": "8153011615984623358",
+    "transactionHash": "0x32e6bada5b4510ab7dd615435ab4ade4a8748461152e869fe82cf2b8b3782ed9",
+    "timestamp": "1710181931"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "606306711",
+    "token2_volume": "148458941094083076",
+    "transactionHash": "0x26e57f8b63c94f90207692d1a00fb72d58dd410fd2d99c18970e7a5c6664c789",
+    "timestamp": "1710181931"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xB86E490E72F050c424383d514362Dc61DaBB1Cc3",
+    "type": "buy",
+    "token1_volume": "2444907401",
+    "token2_volume": "598617810713575144",
+    "transactionHash": "0x245c3169eec990d92ad738ee39be70636d3007f34a34a9d1080f969239f76a47",
+    "timestamp": "1710181943"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "605951874530743326",
+    "token2_volume": "2478125000",
+    "transactionHash": "0x8ff96569ff332f5095ece2614464183ee8384c6ea2877039fc644748dd1b71fd",
+    "timestamp": "1710181955"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "877496393634433287",
+    "token2_volume": "3567086110",
+    "transactionHash": "0x85d0b1bccb11bce381bc9077e6bed646280720d4de7b8fd118fc2cecbca6281c",
+    "timestamp": "1710181955"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "244533848303541851",
+    "token2_volume": "1000000000",
+    "transactionHash": "0x27e1915e4fcacae87746cefe59439a65018f42fe4c9c23a169d936740f9211de",
+    "timestamp": "1710181955"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "244526476825258814",
+    "token2_volume": "1000000000",
+    "transactionHash": "0xb3081fe604d73a3dcd04d3c83176eb53755ab8aa2cbe6838d425f26e76947970",
+    "timestamp": "1710181955"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x0B8a49d816Cc709B6Eadb09498030AE3416b66Dc",
+    "type": "buy",
+    "token1_volume": "8822324077807381482",
+    "token2_volume": "35844203969",
+    "transactionHash": "0x85311a97c25ef8b950af6449ef0f20bd029cfbb63a9d2f85ed88f75d8df1fb96",
+    "timestamp": "1710181967"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "142242978499571748",
+    "token2_volume": "577600055",
+    "transactionHash": "0xe17fd077279d42c3392f9d4f016c8ca7476e8b31ec8b11ece5887aa74de1dfe9",
+    "timestamp": "1710181979"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3328F7f4A1D1C57c35df56bBf0c9dCAFCA309C49",
+    "type": "buy",
+    "token1_volume": "30892514118",
+    "token2_volume": "7558719900655850505",
+    "transactionHash": "0x5e0126062d6c7b7f6b0eca19f45b6baeb8ad045908f5e0afff003937e1b76976",
+    "timestamp": "1710181979"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "10721808350",
+    "token2_volume": "2621184438505760266",
+    "transactionHash": "0x1edd5e8cbfb3bfe9221b776265e80efcd92bf21e8327fa8e6e635b6d0efdb744",
+    "timestamp": "1710181991"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xDef1C0ded9bec7F1a1670819833240f027b25EfF",
+    "type": "sell",
+    "token1_volume": "603719549",
+    "token2_volume": "148451833077847158",
+    "transactionHash": "0x1c16b25ed4d10d7d7616c71ada82aa122ad03b75cf96974427c20a2c1ab90b75",
+    "timestamp": "1710181991"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "732140753266764660",
+    "token2_volume": "2991000000",
+    "transactionHash": "0x9950cd4aa4db4b3754360d52156bd40aa707f4ae474eff072589647c10468b18",
+    "timestamp": "1710182015"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1463924646918022541",
+    "token2_volume": "5981350952",
+    "transactionHash": "0x1d292d97c82431070c0493456d45d658dc7f90c30507240b9d4573f1a34ba71d",
+    "timestamp": "1710182027"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1468223688770989555",
+    "token2_volume": "6000000000",
+    "transactionHash": "0x6286476576216d5ad35ef5e4b9358c295dc6baf7e0d575c8b5b684369de24dd7",
+    "timestamp": "1710182027"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1000000000",
+    "token2_volume": "244420260853472602",
+    "transactionHash": "0x685ef2f207c5d166d1966f4162e1b67febf13066deb7d7350555351e8ce7bd3e",
+    "timestamp": "1710182027"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1800000000",
+    "token2_volume": "439931599716015607",
+    "transactionHash": "0xa6973b63f804f2182418056e42f58d48bd9885aa4332448a1f71b9698da2a2cf",
+    "timestamp": "1710182027"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "8267787816",
+    "token2_volume": "2033145605080860195",
+    "transactionHash": "0x235217f008c3a2efe0f4ba253ed26ac89f10d6bb130ec9d9250bc8c43f45f7e4",
+    "timestamp": "1710182027"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "22554995834",
+    "token2_volume": "5550000000000000000",
+    "transactionHash": "0xb8232d57e8148f4f1ae0b4deab7e9eef12da951479d91246255824f90a7420d7",
+    "timestamp": "1710182039"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41",
+    "type": "buy",
+    "token1_volume": "646291452349258296",
+    "token2_volume": "2625426616",
+    "transactionHash": "0x54e7212be74c88a72cf6f336b4d21e5480431249e3522b4d0c759fd1cb1d1162",
+    "timestamp": "1710182063"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "243963443028307385",
+    "token2_volume": "997000000",
+    "transactionHash": "0x823149717b670068052a3b24739b67f9c98aa300895fd7fac33bcac31a008083",
+    "timestamp": "1710182063"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "71710367766483531",
+    "token2_volume": "293062877",
+    "transactionHash": "0xd59621bb4e1de02793137becef148d7090e01169683102c3e6bcc550f8ce411c",
+    "timestamp": "1710182063"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "buy",
+    "token1_volume": "1800000000000000000",
+    "token2_volume": "7311317642",
+    "transactionHash": "0xc7eeff778a33e5db8e89a70c85aa6be026adb7a98445eac3f8e57825ed359266",
+    "timestamp": "1710182063"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "263895909089660676",
+    "token2_volume": "1078262359",
+    "transactionHash": "0x460ae957bf38e643d08f7f992b7f1621ff9719217b0e3c68b08cdd227ac7d45a",
+    "timestamp": "1710182075"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "1186732597492566592",
+    "token2_volume": "4849348982",
+    "transactionHash": "0x29151adfa5be0605c29d20baecd873125cd4565f883e7ba5fcb07541a6279127",
+    "timestamp": "1710182075"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "2830873219104973050",
+    "token2_volume": "11497348614",
+    "transactionHash": "0x357fd6b9b60717d3d462a51579a40c6b75f43718fadc6f024689b87a312222b8",
+    "timestamp": "1710182087"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "7143778434",
+    "token2_volume": "1758894625218468812",
+    "transactionHash": "0xabd76d73443672f3dd18a4ceddd7f6feb7ac4b2f2a742f9e1437ae7c396de789",
+    "timestamp": "1710182075"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "type": "sell",
+    "token1_volume": "732125484964143084",
+    "token2_volume": "2991000000",
+    "transactionHash": "0x0e2b5d92e1bbd13b25c4e1012aae234c077d179198957b2d1379733af0a097f1",
+    "timestamp": "1710182099"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "buy",
+    "token1_volume": "1060775899038110582",
+    "token2_volume": "4307608376",
+    "transactionHash": "0x3f1f36a7e7826b4da3b352310a3133f176786e5b966bf276adc5c143305a8864",
+    "timestamp": "1710182099"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x51C72848c68a965f66FA7a88855F9f7784502a7F",
+    "type": "buy",
+    "token1_volume": "12179925380773908480",
+    "token2_volume": "49415505047",
+    "transactionHash": "0x6edb625a7740ccec9d758c3106411afae7808834938a421fa930340426184f3f",
+    "timestamp": "1710182099"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "490311991269700137",
+    "token2_volume": "2000000000",
+    "transactionHash": "0x5f76041bada509e5b8d9eea848bed869b14d7582a39ddbfe755c3761f5f7d452",
+    "timestamp": "1710182111"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "491262928699110141",
+    "token2_volume": "2004000000",
+    "transactionHash": "0xfc4dcb302541348416ef2413f270648cdb3f925bad724accace4f6d4c2ec512b",
+    "timestamp": "1710182123"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xA69babEF1cA67A37Ffaf7a485DfFF3382056e78C",
+    "type": "sell",
+    "token1_volume": "52788325549",
+    "token2_volume": "13012988778917278775",
+    "transactionHash": "0xdd070a680d82a0a8322c3bdf0fbdd15545fac81e964ba58e476dd8d99501c1f6",
+    "timestamp": "1710182123"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "147928233558407959",
+    "token2_volume": "599838489",
+    "transactionHash": "0x095d958bdb536dd6b60ea533f85d19c4600bb49756173b2c53b54f2889f9a96e",
+    "timestamp": "1710182135"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x2Ec705D306b51e486B1bC0D6ebEE708E0661ADd1",
+    "type": "buy",
+    "token1_volume": "1233171606809897109",
+    "token2_volume": "5000000000",
+    "transactionHash": "0xdc832f6e0797b429f860fd06821f6764c5ef96eb4280a44590f56910d0e1a299",
+    "timestamp": "1710182135"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+    "type": "sell",
+    "token1_volume": "245171624188533646",
+    "token2_volume": "1000000000",
+    "transactionHash": "0x04881680cb850cf1c7604906d7036adacd47d3ad3657543f53d2e3f520b4b646",
+    "timestamp": "1710182147"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1000000000",
+    "token2_volume": "245293727270441694",
+    "transactionHash": "0xf13a759d7dfd36c4f758ed5689f905d933679dce8b0322ad5ee7cce5d11e5ab5",
+    "timestamp": "1710182135"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "2027345234",
+    "token2_volume": "500302735976782487",
+    "transactionHash": "0xbcd0146f64d9865af4d6974839cc27cf86f68be4027cacd491b5d1ae0dd11751",
+    "timestamp": "1710182135"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "245164223878213611",
+    "token2_volume": "1000000000",
+    "transactionHash": "0x112629f60250034eb24a6d55a28fb92e12e2a16caac43208231eedf11c991717",
+    "timestamp": "1710182159"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "30000000",
+    "token2_volume": "7359263812064283",
+    "transactionHash": "0x3eb1eb15dbc4b7914776e407209c44e35c9aa52cc1aa4df1da5c0f22e2daf333",
+    "timestamp": "1710182159"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "227997205",
+    "token2_volume": "55929427689822874",
+    "transactionHash": "0xd86648dbd90c17c953a0959acc0896c8196a7874be18b4bc61ddf0e9f0ddefa3",
+    "timestamp": "1710182159"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "4955139905",
+    "token2_volume": "1222976360668176217",
+    "transactionHash": "0x34f20917a47bb50781b2cae4415dba77a236ae3e9509850ecd403caac881615b",
+    "timestamp": "1710182159"
+  },
+  {
+    "TOKEN": "ETH/USDT",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "sell",
+    "token1_volume": "115224627496357635",
+    "token2_volume": "470000000",
+    "transactionHash": "0xd89514ad52080c532689c123346ea4e3377f49ea817dff73152702ca195b1b8c",
+    "timestamp": "1710182183"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "type": "buy",
+    "token1_volume": "1000000000",
+    "token2_volume": "245350770577421698",
+    "transactionHash": "0x1e5fba91bd6b38ef015eb44a3ea0d7c2043812b627cd358941da222fa01ad0d3",
+    "timestamp": "1710182195"
+  },
+  {
+    "TOKEN": "USDC/ETH",
+    "sender": "0xF3dE3C0d654FDa23daD170f0f320a92172509127",
+    "type": "sell",
+    "token1_volume": "4051128637",
+    "token2_volume": "1000000000000000000",
+    "transactionHash": "0x5fcb2327f3d4bb0b8b3ec261b0e3bb31a4e1d205404cdda20af41a77f77c91d6",
+    "timestamp": "1710182195"
+  }
+]
